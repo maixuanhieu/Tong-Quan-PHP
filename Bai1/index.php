@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Chức năng đăng nhập</title>
     <style type="text/css">
         .login {
             height: 180px;
