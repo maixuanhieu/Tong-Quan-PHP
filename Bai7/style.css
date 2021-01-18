@@ -1,0 +1,25 @@
+
+p{
+    margin: 0px;
+}
+form{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    width: 300px;
+    padding: 20px;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+.title{
+    position: absolute;
+    top: 70px;
+    left: 31px;
+    z-index: 100;
+    background-color: white;
+    padding: 0 5px;
+   
+}
